@@ -16,9 +16,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## Data set information
 
-- subject: the participant (id)
-- activityId: the label of the activity performed (id)
-- activityDesc: the label of the activity performed
+•	Subject: the participant (id)
+•	ActivityId: the label of the activity performed (id)
+•	ActivityDesc: the label of the activity performed
   
   1) WALKING: subject was walking during the test
   2) WALKING_UPSTAIRS: subject was walking up a staircase during the test
@@ -28,7 +28,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
   6) LAYING: subject was laying down during the test
 
 
-The variables are distinguished in two macro groups of time and frequency, within which the average values and the standard deviation are recorded depending on the sensor (accelerometer and gyroscope).
+The measurements are distinguished in two macro groups of time and frequency, within which the average values and the standard deviation are recorded depending on the sensor (accelerometer and gyroscope).
 
 - timeBodyAccelerometer-mean()-X
 - timeBodyAccelerometer-mean()-Y
