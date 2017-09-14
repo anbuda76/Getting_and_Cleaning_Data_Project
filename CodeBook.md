@@ -4,9 +4,6 @@
 
 Additional information about the variables, data and transformations.
 
-The data set tidy contains 180 rows and 69 columns. 
-Each row has averaged variables for each subject and each activity.
-
 --------------------------------------------------------------------------------------------------------
 
 ## Source data
@@ -20,6 +17,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 --------------------------------------------------------------------------------------------------------
 
 ## Data set information
+
+The data set tidy contains 180 rows and 69 columns (66 variables).  
+Each row has averaged variables for each subject and each activity.
 
 *	Subject: the participant (id)
 *	ActivityId: the label of the activity performed (id) 
