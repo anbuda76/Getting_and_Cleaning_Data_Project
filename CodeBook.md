@@ -18,7 +18,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## Data set information
 
-The data set tidy contains 180 rows and 69 columns (66 variables).  
+The data set tidy contains 180 rows and 69 columns (66 variables numeric and 3 variables integr type/Factor).  
 Each row has averaged variables for each subject and each activity.
 
 *	Subject: the participant (id)
