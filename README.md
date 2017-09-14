@@ -1,13 +1,15 @@
 # Getting and Cleaning Data - Course Project
 ==============================================================
 
-### Introduction
+### Instruction
 ______________________________________________________________
 
 This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization.
 
 I created a script called "run_project.R" which will solve all assigments.
-it does the following:
+
+It does the following:
+
 - Download the file and put the file in the temp folder 
 - Read in the data from files
 - Fix column names
@@ -18,3 +20,8 @@ it does the following:
 - An an other data set tidy the set with the average of each variable for each activity and each subject
 
 The end result is shown in the file "tidydata.txt" saved in "C:/Getting and Cleaning Data/UCI HAR Dataset/"
+
+_______________________________________________________________
+### About the Code Book
+
+The CodeBook.md file explains the transformations performed and the resulting data and variables
