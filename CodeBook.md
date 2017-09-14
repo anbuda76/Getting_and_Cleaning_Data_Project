@@ -4,6 +4,9 @@
 
 Additional information about the variables, data and transformations.
 
+The data set tidy contains 180 rows and 69 columns. 
+Each row has averaged variables for each subject and each activity.
+
 --------------------------------------------------------------------------------------------------------
 
 ## Source data
